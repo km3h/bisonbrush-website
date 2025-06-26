@@ -36,8 +36,8 @@ A professional, minimal website showcasing Bison Brush LLC's iOS applications, f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/km3h/edia-website.git
-   cd edia-website
+   git clone https://github.com/km3h/bisonbrush-website.git
+   cd bisonbrush-website
    ```
 
 2. Start a local server:
